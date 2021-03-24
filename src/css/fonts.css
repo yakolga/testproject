@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "AmaticSC-Regular";
+  src: url("../fonts/AnyConv.com__AmaticSC-Regular.eot");
+  src: url("../fonts/AnyConv.com__AmaticSC-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/AnyConv.com__AmaticSC-Regular.woff") format("woff"),
+    url("../fonts/AmaticSC-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AnimaticSC-Bold";
+  src: url("../fonts/AnyConv.com__AmaticSC-Bold.eot");
+  src: url("AnyConv.com__AmaticSC-Bold.eot") format("embedded-opentype"),
+    url("../fonts/AnyConv.com__AmaticSC-Bold.woff") format("woff"),
+    url("../fonts/AmaticSC-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "NotoSans-Regular";
+  src: url("../fonts/AnyConv.com__NotoSans-Regular.eot");
+  src: url("../fonts/AnyConv.com__NotoSans-Regular.eot") format("embedded-opentype"),
+    url("../fonts/AnyConv.com__NotoSans-Regular.woff") format("woff"),
+    url("../fonts/NotoSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+
